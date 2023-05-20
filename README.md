@@ -1,4 +1,4 @@
-# IndiaStates
+
 # India State Guessing Game
 
 ## Introduction
